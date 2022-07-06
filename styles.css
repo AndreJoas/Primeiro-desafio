@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.master{
+     background: green;
+}
+.primeiro{
+    box-sizing: content-box;
+    width: 172.8rem;
+    height: 9rem;
+    margin-bottom: 0;
+    padding-top: 2px;
+    background: rgb(240, 24, 24);
+}
+.primeiro .p{
+    top: 31px;
+    position: relative;
+    left: 420px;
+    font-size: 30px;
+    padding-bottom: 0;
+}
+.primeiro .t1{
+    position: relative;
+    left: 230px;
+    font-size: 117px;
+    
+    
+}
+
+.segundo{
+    box-sizing: content-box;
+    width: 172.8rem;
+    height: 9.4rem;
+    margin-bottom: 0;
+    padding-top: 15px;
+    background: rgb(40, 173, 203);
+}
+.segundo .e{
+    top: 26px;
+    position: relative;
+    left: 960px;
+    font-size: 30px;
+    padding-bottom: 0;
+}
+.segundo .t2{
+    position: relative;
+    left: 730px;
+    font-size: 126px;
+    
+}
+
+
+.terceiro{
+    box-sizing: content-box;
+    width: 172.8rem;
+    height: 9rem;
+    border: 2px solid rgb(52, 34, 186);
+    margin: 0;
+    padding: 10px;
+    background: rgb(225, 226, 223);
+}
+.terceiro .t{
+    top: 26px;
+    position: relative;
+    left: 220px;
+    font-size: 30px;
+    padding-bottom: 0;
+}
+.terceiro .t3{
+    position: relative;
+    left: 20px;
+    font-size: 120px;
+    
+}
+
+.quarto{
+    box-sizing: content-box;
+    width: 172.8rem;
+    height: 9rem;
+    border: 2px solid rgb(52, 34, 186);
+    margin: 0;
+    padding: 10px;
+    background: rgb(167, 231, 15);
+}
+.quarto .a{
+    top: 26px;
+    position: relative;
+    left: 870px;
+    font-size: 27px;
+    padding-bottom: 0;
+}
+.quarto .t4{
+    position: relative;
+    left: 650px;
+    font-size: 120px;
+    
+}
